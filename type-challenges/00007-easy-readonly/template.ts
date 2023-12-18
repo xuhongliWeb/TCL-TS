@@ -14,4 +14,4 @@ function Readonly (obj) {
 
 // 1. 返回对象
 // 2. 遍历对象 （ts 接口 js 接口） in keyof  lookup
-// 2. key 加关键字 readonly 
+// 2. key 加关键字 readonly e
